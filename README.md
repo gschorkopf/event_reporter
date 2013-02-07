@@ -1,1 +1,3 @@
-Will add README soon!
+Please install active support!
+
+gem install active_support
